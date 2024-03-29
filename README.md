@@ -1,15 +1,15 @@
 Hi there 👋
-I'm Anivesh student of Bachelor of Technology specialized in Computer Science Engineering. I'm working on Deep Learning and Machine Learning
+I'm Anivesh,
+I'm software Engineering. 
 
-🔭 I’m currently working on Machine Learning and Deep Learning
+
+🔭 I’m currently working on Developement, DSA and Machine Learning
 
 🌱 I’m currently learning Game Automation
 
-👯 I’m looking to collaborate on Tensorflow and ML
+👯 I’m looking to collaborate on Tensorflow and kafka
 
-🤔 I’m looking for help with Web API.
-
-💬 Ask me about Machine Leaning ,TensorFlow or Computer Vision
+💬 Ask me about Machine Leaning ,DSA or Development
 
 📫 How to reach me: Anivesh_linkedin
 
