@@ -11,6 +11,7 @@ I'm software Engineering.
 
 💬 Ask me about Machine Leaning ,DSA or Development
 
-📫 How to reach me: Anivesh_linkedin
+📫 How to reach me: [Anivesh_LinkedIn](https://www.linkedin.com/in/anivesh-bhadauriya-57b003169/)
+
 
 ⚡ Fun fact: I'm ready to learn anything
